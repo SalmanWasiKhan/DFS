@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/DFS/static/css/main.41d30d84.chunk.css",
+    "main.js": "/DFS/static/js/main.194560cc.chunk.js",
+    "main.js.map": "/DFS/static/js/main.194560cc.chunk.js.map",
+    "runtime-main.js": "/DFS/static/js/runtime-main.6f0b6869.js",
+    "runtime-main.js.map": "/DFS/static/js/runtime-main.6f0b6869.js.map",
+    "static/js/2.cf887d76.chunk.js": "/DFS/static/js/2.cf887d76.chunk.js",
+    "static/js/2.cf887d76.chunk.js.map": "/DFS/static/js/2.cf887d76.chunk.js.map",
+    "index.html": "/DFS/index.html",
+    "static/css/main.41d30d84.chunk.css.map": "/DFS/static/css/main.41d30d84.chunk.css.map",
+    "static/js/2.cf887d76.chunk.js.LICENSE.txt": "/DFS/static/js/2.cf887d76.chunk.js.LICENSE.txt",
+    "static/media/facebook.236666e7.svg": "/DFS/static/media/facebook.236666e7.svg",
+    "static/media/hero1.1a2a73a5.jpg": "/DFS/static/media/hero1.1a2a73a5.jpg",
+    "static/media/linkedin.84d6aaca.svg": "/DFS/static/media/linkedin.84d6aaca.svg",
+    "static/media/pin.72e55ebe.svg": "/DFS/static/media/pin.72e55ebe.svg",
+    "static/media/pinterest.aebc64cd.svg": "/DFS/static/media/pinterest.aebc64cd.svg",
+    "static/media/taxes.5e61bb31.svg": "/DFS/static/media/taxes.5e61bb31.svg",
+    "static/media/time.2f5b1c8f.svg": "/DFS/static/media/time.2f5b1c8f.svg",
+    "static/media/twitter.536733a8.svg": "/DFS/static/media/twitter.536733a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f0b6869.js",
+    "static/js/2.cf887d76.chunk.js",
+    "static/css/main.41d30d84.chunk.css",
+    "static/js/main.194560cc.chunk.js"
+  ]
+}
