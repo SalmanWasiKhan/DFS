@@ -16,7 +16,7 @@ function MemberCard() {
           sound intellectual capital. Holistically foster superior
           methodologies.
         </p>
-        <a href="#" className="text-sm font-semibold text-secondary">
+        <a href="/" className="text-sm font-semibold text-secondary">
           {"Read more >"}
         </a>
       </div>
