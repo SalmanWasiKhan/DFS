@@ -16,7 +16,7 @@ function Service() {
           Dramatically disseminate standardized metrics after processes.
           Objectively pursue diverse catalysts for change.
         </p>
-        <a href="#" className="text-sm font-semibold text-primary">
+        <a href="/" className="text-sm font-semibold text-primary">
           {"Read more >"}
         </a>
       </div>

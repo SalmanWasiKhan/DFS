@@ -1,8 +1,13 @@
 import React from "react";
+import Divider from "../components/Divider";
+import Contact from "../components/Home/Contact";
+import Features from "../components/Home/Features";
 import Header from "../components/Home/Header";
 import Hero from "../components/Home/Hero";
+import Locations from "../components/Home/Locations";
 import MainHeader from "../components/Home/MainHeader";
 import Services from "../components/Home/Services";
+import Team from "../components/Home/Team";
 
 function Home() {
   return (
@@ -10,10 +15,13 @@ function Home() {
       <Header />
       <MainHeader />
       <Hero />
-      <div className="relative h-0">
-        <div className="absolute top-0 left-0 w-full h-32 transform -translate-x-1 -translate-y-8 bg-gray-100 rotate-3"></div>
-      </div>
+      <Divider color="bg-gray-100" />
       <Services />
+      <Features />
+      <Team />
+      <Divider color="bg-white" />
+      <Contact />
+      <Locations />
     </div>
   );
 }

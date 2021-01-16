@@ -28,16 +28,16 @@ function Header() {
       <div className="flex justify-center">
         <div className="mr-3">Visit our social pages</div>
         <div className="flex justify-center text-primary">
-          <a href="#" className="flex items-center justify-center">
+          <a href="/" className="flex items-center justify-center">
             <Icon icon={facebookIcon} className="w-3 h-3 mx-2" />
           </a>
-          <a href="#" className="flex items-center justify-center">
+          <a href="/" className="flex items-center justify-center">
             <Icon icon={twitterIcon} className="w-3 h-3 mx-2" />
           </a>
-          <a href="#" className="flex items-center justify-center">
+          <a href="/" className="flex items-center justify-center">
             <Icon icon={pinterestIcon} className="w-3 h-3 mx-2" />
           </a>
-          <a href="#" className="flex items-center justify-center">
+          <a href="/" className="flex items-center justify-center">
             <Icon icon={linkedinIcon} className="w-3 h-3 mx-2" />
           </a>
         </div>
